@@ -1,0 +1,5 @@
+C:\Users\misikir\Source\Repos\C#_Projects\InsuranceCompany\InsuranceCompany\bin\Debug\InsuranceCompany.dll
+C:\Users\misikir\Source\Repos\C#_Projects\InsuranceCompany\InsuranceCompany\bin\Debug\InsuranceCompany.pdb
+C:\Users\misikir\Source\Repos\C#_Projects\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.csprojResolveAssemblyReference.cache
+C:\Users\misikir\Source\Repos\C#_Projects\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.dll
+C:\Users\misikir\Source\Repos\C#_Projects\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.pdb
