@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceCompany", "Insuran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspWebForms", "AspWebForms\AspWebForms.csproj", "{46D1B008-BD8C-4086-8C66-D1C7566B139C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspMvc", "AspMvc\AspMvc.csproj", "{F9CC336B-0DAE-4D94-91AF-98845446A4EF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{46D1B008-BD8C-4086-8C66-D1C7566B139C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46D1B008-BD8C-4086-8C66-D1C7566B139C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46D1B008-BD8C-4086-8C66-D1C7566B139C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F9CC336B-0DAE-4D94-91AF-98845446A4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9CC336B-0DAE-4D94-91AF-98845446A4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9CC336B-0DAE-4D94-91AF-98845446A4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9CC336B-0DAE-4D94-91AF-98845446A4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
