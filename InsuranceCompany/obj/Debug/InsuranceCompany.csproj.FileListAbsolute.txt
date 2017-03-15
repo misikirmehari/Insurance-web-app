@@ -7,3 +7,8 @@ C:\Users\misikir\Documents\GitHubRepos\InsuranceCompany\InsuranceCompany\bin\Deb
 C:\Users\misikir\Documents\GitHubRepos\InsuranceCompany\InsuranceCompany\bin\Debug\InsuranceCompany.pdb
 C:\Users\misikir\Documents\GitHubRepos\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.dll
 C:\Users\misikir\Documents\GitHubRepos\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.pdb
+C:\Users\mskrm\Documents\c_sharp_applications\Insurance-web-app\InsuranceCompany\bin\Debug\InsuranceCompany.dll
+C:\Users\mskrm\Documents\c_sharp_applications\Insurance-web-app\InsuranceCompany\bin\Debug\InsuranceCompany.pdb
+C:\Users\mskrm\Documents\c_sharp_applications\Insurance-web-app\InsuranceCompany\obj\Debug\InsuranceCompany.csprojResolveAssemblyReference.cache
+C:\Users\mskrm\Documents\c_sharp_applications\Insurance-web-app\InsuranceCompany\obj\Debug\InsuranceCompany.dll
+C:\Users\mskrm\Documents\c_sharp_applications\Insurance-web-app\InsuranceCompany\obj\Debug\InsuranceCompany.pdb
